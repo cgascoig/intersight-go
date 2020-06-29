@@ -1,14 +1,2 @@
 
-
-
-# TODO
- - common params (key, etc)
- - tidy code
- - generate help into cobra
- - Makefile
- - README documentation
- - JSON / JSONPath output
- - tests
- - post/patch
- - common params ($filter, etc)
- 
+This repository is deprecated - work on a CLI for Cisco Intersight has moved to [isctl](https://github.com/cgascoig/isctl)
